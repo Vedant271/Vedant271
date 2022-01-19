@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about Flutter/App Development
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/vedantkarale/), [E-mail](vedantkarale271@gmail.com)
-- ⚡ Fun fact: I like creating/designing something unique with available stuff..!!
+- ⚡ Fun fact: I like creating/designing unique stuff..!!
 
 ### Languages and Tools:
 
